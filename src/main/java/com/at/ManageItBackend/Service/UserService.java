@@ -1,6 +1,6 @@
 package com.at.ManageItBackend.Service;
 
-import com.at.ManageItBackend.Entity.User;
+import com.at.ManageItBackend.Entity.Users.User;
 
 import java.util.List;
 

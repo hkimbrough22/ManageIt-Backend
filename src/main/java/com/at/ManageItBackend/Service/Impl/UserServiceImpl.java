@@ -1,6 +1,6 @@
 package com.at.ManageItBackend.Service.Impl;
 
-import com.at.ManageItBackend.Entity.User;
+import com.at.ManageItBackend.Entity.Users.User;
 import com.at.ManageItBackend.Repository.UserRepository;
 import com.at.ManageItBackend.Service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;

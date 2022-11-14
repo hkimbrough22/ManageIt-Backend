@@ -1,7 +1,6 @@
 package com.at.ManageItBackend.Controller;
 
-import com.at.ManageItBackend.Entity.User;
-import com.at.ManageItBackend.Service.Impl.UserServiceImpl;
+import com.at.ManageItBackend.Entity.Users.User;
 import com.at.ManageItBackend.Service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
